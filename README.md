@@ -3,6 +3,10 @@
 
 
 #  Đối tượng
+- Bữa ăn
+- Thành viên
+- Quản lý
+- Đơn đăng ký
  
 
 
