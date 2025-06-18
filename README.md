@@ -2,13 +2,13 @@
 Ứng dụng quản lý quán net
 
 
-#  Đối tượng
+###  Đối tượng
 - Số máy
 - Khách hàng
 - Thời gian
 - Giá tiền
 
-# Miêu tả đối tượng
+### Miêu tả đối tượng
 1. Số máy
 - mã máy
 2. Khách hàng
@@ -21,7 +21,7 @@
 4. Giá tiền
 
 
-# Thành viên
+### Thành viên
 - Hoàng Nhật Bảo Trâm(24100260)
 - Nguyễn Thị Kim Oanh(24100459)
 - Nguyễn Thanh Đức(24100273)
