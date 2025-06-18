@@ -9,7 +9,7 @@
 - Giá tiền
 
 # Miêu tả đối tượng
-Số máy
+\\Số máy
 - mã máy
 Khách hàng
 - tên khách hàng
