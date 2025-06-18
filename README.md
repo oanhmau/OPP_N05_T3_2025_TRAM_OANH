@@ -3,25 +3,22 @@
 
 
 #  Đối tượng
-- Bữa ăn
-- Thành viên
-- Quản lý
-
+- Số máy
+- Khách hàng
+- Thời gian
+- Giá tiền
 
 # Miêu tả đối tượng
-Bữa ăn 
-- Mã bữa ăn
-- Tên bữa ăn
-- Số lượng thức ăn
-- Lượng calo trong thức ăn
-  
-Thành viên
-- Mã thành viên
-- Họ tên
-- Vai trò
-- Thông tin liên hệ
-
-Quản lý
+Số máy
+- mã máy
+Khách hàng
+- tên khách hàng
+- mã khách hàng
+Thời gian
+- thời gian tới
+- thời gian đi
+- tổng thời gian chơi
+Giá tiền
 
 
 # Thành viên
