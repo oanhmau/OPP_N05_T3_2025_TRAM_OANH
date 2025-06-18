@@ -10,4 +10,5 @@
 # Thành viên
 - Hoàng Nhật Bảo Trâm(24100260)
 - Nguyễn Thị Kim Oanh(24100459)
+- Nguyễn Thanh Đức(24100273)
 - Nguyễn Lệ Thu 
