@@ -9,16 +9,16 @@
 - Giá tiền
 
 # Miêu tả đối tượng
-**Số máy**
+Số máy
 - mã máy
-**Khách hàng**
+   Khách hàng
 - tên khách hàng
 - mã khách hàng
-**Thời gian**
+Thời gian
 - thời gian tới
 - thời gian đi
 - tổng thời gian chơi
-**Giá tiền**
+  Giá tiền
 
 
 # Thành viên
