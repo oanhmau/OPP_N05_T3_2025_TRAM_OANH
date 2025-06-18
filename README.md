@@ -9,9 +9,9 @@
 - Giá tiền
 
 # Miêu tả đối tượng
---Số máy
+\Số máy
 - mã máy
---Khách hàng
+\Khách hàng
 - tên khách hàng
 - mã khách hàng
 Thời gian
